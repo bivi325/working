@@ -1,0 +1,8 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "no-mag",
+  "main": "main.js",
+  "author": "@denys.havryliv",
+  "license": "MIT"
+}
