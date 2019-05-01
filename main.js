@@ -1,2 +1,4 @@
-const printMsg = (msg) => console.log(msg);
+const printMsg = (msg) => {
+    return console.log(msg);
+};
 printMsg('Hello');
