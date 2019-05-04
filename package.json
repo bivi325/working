@@ -1,8 +1,19 @@
 {
-  "name": "git",
+  "name": "breakout",
   "version": "1.0.0",
-  "description": "no-mag",
+  "description": "game Parser3",
   "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bivi325/working.git"
+  },
   "author": "@denys.havryliv",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bivi325/working/issues"
+  },
+  "homepage": "https://github.com/bivi325/working#readme"
 }
