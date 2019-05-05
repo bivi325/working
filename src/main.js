@@ -1,6 +1,15 @@
 /** @type {import("../typings/phaser")} */
 
-let game = new Phaser.Game({
-    width: 400,
-    height: 400
-});
+import { LoadScene } from './scenes/LoadScene';
+import { MenuScene } from './scenes/MenuScene';
+
+const config = {
+    width: 1400,
+    height: 600,
+    parent: 'game',
+    scene: [
+        LoadScene, MenuScene
+    ],
+}
+
+let game = new Phaser.Game(config);

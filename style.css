@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+.wrapper {
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    display: grid;
+    grid-template-columns: 1fr 8fr 1fr;
+    grid-auto-rows: 600px;
+}
+.game-wrapper {
+    margin: auto;
+}
