@@ -1,0 +1,14 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+}
+.game {
+    margin: 15vh 20vw;
+    display: flex;
+    align-content: center;
+}
+canvas {
+    margin: auto;
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
