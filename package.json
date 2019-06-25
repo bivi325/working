@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bivi325/working/issues"
   },
-  "homepage": "https://github.com/bivi325/working#readme"
+  "homepage": "https://github.com/bivi325/working#readme",
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  }
 }
